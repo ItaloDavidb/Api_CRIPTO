@@ -38,6 +38,14 @@ o padrão é criada no caminho abaixo:
 ```
 Basta substituir a configuração relativo a sua
 
+Execute este comando para criar as tabelas
+```
+npx sequelize-cli db:migrate
+```
+e depois esse para popular
+```
+npx sequelize-cli db:seed:all
+```
 
 Após todas essas etapas é so rodar este comando,dentro da raiz da api:
 ```

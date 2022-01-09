@@ -1,5 +1,7 @@
-# Api Rest CRIPTO
-## Uma simples API DE Criptocurrenci no qual você pode visualizar sua carteira, suas moedas e suas transações
+# Api Rest CRIPTO ❗
+## Uma simples API DE Criptocurrency no qual você pode visualizar sua carteira, suas moedas e suas transações
+## 💢 Sinto dizer que não conseguir criar todo o projeto da forma na qual foi requisitada, pois me foi deveras complicado porém aprendi muito com esse desafio, peço desculpas a meus mestres jedis por está entregando algo imcompleto porém garanto para os senhores e senhoras que eu tentei e utilizei de meu maximo tempo e de maximo conhecimento para entregar esse projeto e só tenho a agradecer pela oportunidade de está podendo aprender tanto em tão pouco tempo.
+![compass](https://user-images.githubusercontent.com/82064724/148261190-3db20155-f50d-4ff8-9284-d02196a27800.jpeg)
 
 ## Pré-requisitos
 - Um gerenciador de pacotes como o NPM ou o YARN

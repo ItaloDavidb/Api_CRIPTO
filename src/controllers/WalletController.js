@@ -29,12 +29,13 @@ class WalletController{
             
         
         try{
+            console.log(wherecoin)
             const readall = await database.Wallets.findAll(
                 {
                 where,
                 attributes:['nome','cpf','birthdate'],
                 include:[
-                    {   wherecoin,
+                    {   
                         model:database.Coins,
                         attributes:['coin','fullname','amount'], 
                         as: 'Coins',
@@ -46,7 +47,8 @@ class WalletController{
                         ]
                     }
 
-                ]
+                ],
+                wherecoin
             })
             return res.status(200).json({
                 "wallet":readall

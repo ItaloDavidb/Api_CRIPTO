@@ -38,7 +38,7 @@ module.exports = {
         coin: 'ETC',
         fullname:'Etherium',
         amount:0.50,
-        adress_wallet: 2,
+        adress_wallet: 3,
         createdAt: new Date(),
         updatedAt: new Date()
 
@@ -47,7 +47,7 @@ module.exports = {
         coin: 'BTC',
         fullname:'Bitcoin',
         amount:0.50,
-        adress_wallet: 2,
+        adress_wallet: 3,
         createdAt: new Date(),
         updatedAt: new Date()
 
